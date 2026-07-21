@@ -1,2 +1,0 @@
-2026-07-21 16:44:25,978 {"input": {"Gr Liv Area": 2000, "Overall Qual": 7, "Year Built": 2005, "TotRms AbvGrd": 8, "Garage Cars": 2}, "prediction": 248378.70811036258}
-2026-07-21 16:44:33,145 {"input": {"Gr Liv Area": 900, "Overall Qual": 4, "Year Built": 1950, "TotRms AbvGrd": 5, "Garage Cars": 1}, "prediction": 98454.5429737338}
