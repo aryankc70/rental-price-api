@@ -15,8 +15,7 @@ from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import StandardScaler
 
 TARGET = "SalePrice"
-FEATURES = ["GrLivArea", "OverallQual", "YearBuilt", "TotRmsAbvGrd", "GarageCars"]
-
+FEATURES = ["Gr Liv Area", "Overall Qual", "Year Built", "TotRms AbvGrd", "Garage Cars"]
 df = pd.read_csv("data/housing.csv")
 X, y = df[FEATURES], df[TARGET]
 
